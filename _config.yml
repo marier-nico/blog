@@ -1,0 +1,5 @@
+deploy:
+  type: git
+  repo: https://github.com/marier-nico/blog
+  branch: [master]
+  message: []
