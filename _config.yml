@@ -98,6 +98,11 @@ theme_config:
     About: /about/
     Writing: /archives/
     Projects: http://github.com/marier-nico
+  social_links:
+    github: http://github.com/marier-nico
+    twitter: https://twitter.com/NicMarier
+    linkedin: https://www.linkedin.com/in/nicolas-marier/
+    mail: mailto:contact@nmarier.com
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
