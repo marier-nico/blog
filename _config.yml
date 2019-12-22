@@ -103,6 +103,22 @@ theme_config:
     twitter: https://twitter.com/NicMarier
     linkedin: https://www.linkedin.com/in/nicolas-marier/
     mail: mailto:contact@nmarier.com
+  logo:
+    enabled: true
+    width: 50
+    height: 50
+    url: /images/look-and-feel/favicon-rounded.png
+    gravatar: false
+  favicon:
+    desktop:
+      url: /images/look-and-feel/favicon-32x32.png
+      gravatar: false
+    android:
+      url: /images/look-and-feel/android-chrome-192x192.png
+      gravatar: false
+    apple:
+      url: /images/look-and-feel/apple-touch-icon.png
+      gravatar: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
