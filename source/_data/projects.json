@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dotfiles",
+    "url": "https://github.com/marier-nico/dotfiles",
+    "desc": "A collection of configurations for various tools"
+  },
+  {
+    "name": "File Radio",
+    "url": "https://github.com/marier-nico/file-radio",
+    "desc": "Transmit files through radio waves as sound"
+  }
+]
