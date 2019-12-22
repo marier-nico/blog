@@ -23,3 +23,15 @@ I'm passionate about making simple things that work well and are convenient.
 Often times, my work falls short of my expectations, but such is the process of
 improving at one's craft. I'm always looking for a new challenge and, given the
 time, I will fully invest my energy into trying to solve one such challenge.
+
+---
+
+You might be (rightly) wondering : "Gee, that's fun and all, but who cares? Why
+does this guy think he needs a blog anyway?" That is an astute observation, and
+I need this blog for no other reason than to keep an archive of past struggles
+and solutions. As you know, documentation is vital to software development and the
+hope is that by documenting issues and solutions on this blog, I will improve on my
+ability to write useful documentation. Making the blog public will force me to put
+some minimum amount of effort and thought into the process, so as to not make a fool
+of myself. If it turns out that I'm able to, by chance, help out a fellow human being
+with any given task through this blog, then I will also be satisfied.
