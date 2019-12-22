@@ -4,12 +4,12 @@
 
 # Site
 title: Nicolas Marier
-subtitle: ''
-description: ''
+subtitle: ""
+description: ""
 keywords:
 author: Nicolas Marier
 language: en
-timezone: ''
+timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -37,7 +37,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ''
+  exclude: ""
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -47,14 +47,14 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: ""
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
 
@@ -93,13 +93,13 @@ ignore:
 theme: cactus
 theme_config:
   colorscheme: dark
-nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/marier-nico
+  nav:
+    Home: /
+    About: /about/
+    Writing: /archives/
+    Projects: http://github.com/marier-nico
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: ""
