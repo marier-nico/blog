@@ -70,3 +70,7 @@ That might seem like a deal-breaker already, because running only one task plus 
 ## Conclusion
 
 What I'm sticking with, personally, is probably the simplest solution but it's quite effective and most definitely the easiest to setup. For my own needs, a single `t3a.nano` instance is plenty, and I use docker-compose to manage my various services. The downsides to this are that updates have to be applied manually on the EC2 instance (though, the AMI used for ECS over EC2 also needs manual updates) and that there are no convenient integrations with other AWS services, like having the ability to load environment variable values to pass to containers from AWS Parameter Store. Those are not too dramatic for me, so overall, this whole deep dive into ECS was more of a learning experience than anything else.
+
+## Comments
+
+Feel free to open issues on my github [project](https://github.com/marier-nico/blog) if you have any comments or suggestions!
