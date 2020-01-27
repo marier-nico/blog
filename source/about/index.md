@@ -3,14 +3,14 @@ title: about
 date: 2019-12-22 16:57:29
 ---
 
-Welcome to my blog, hopefully your journey to this far, far away corner of the Internet was not too troublesome. It's nice to meet you, finally, I've been waiting.
+Welcome to my blog,
 
-I'll be concise; no need to discuss at length why you came here, the important thing is that you made it. My name is Nicolas, and I'm currently studying computer science in university (how original). I like security and will take part in as many CTFs as I can fit into my schedule. I work for a software company while studying, it keeps things interesting, and I also play badminton or go skiing the rest of the time.
+My name is Nicolas, and I'm currently studying computer science in university (how original). I like security and will take part in as many CTFs as I can fit into my schedule. I work for a software company while studying, it keeps things interesting. I also enjoy skiing and playing badminton (as well as a bunch of other things, but let's keep things simple for now)!
 
-As you can see, my schedule is pretty packed. Fortunately, I am occasionally able to forget my various responsibilities and continue teaching myself programming concepts, languages, technologies or paradigms. I'm also interested in the many crafts surrounding programming itself, such as dev-ops and dev-tooling.
+I'm generally pretty busy, but I'm occasionally able to take some time away from my other responsibilities to continue teaching myself programming languages, algorithms and other interesting ideas. I also try to take some time to write into this blog, which helps share knowledge and improve literacy!
 
-I'm passionate about making simple things that work well and are convenient. Often times, my work falls short of my expectations, but such is the process of improving at one's craft. I'm always looking for a new challenge and, given the time, I will fully invest my energy into trying to solve one such challenge.
+I'm passionate about making simple things that work well and are convenient. Often times, my work falls short of my expectations, but I imagine I'm not the only one feeling this way. It might not be a bad thing either, because by having high expectations, there's no risk of stagnation! I'm always looking for a new challenge and, given the time, I'll do my best to solve it and figure out how the puzzle pieces fit together.
 
----
+Now, the idea with this blog really isn't to show off all my (limited) knowledge about the world, rather it's to practice writing in order to (hopefully) gain the ability to write great documentation, because that's something I believe in. Also, it's a useful place to funnel my thoughts into when I solve a specific problem which I might have to face again in the future, because then it will serve as a reference for me, but it might help someone else out!
 
-You might be (rightly) wondering : "Gee, that's fun and all, but who cares? Why does this guy think he needs a blog anyway?" That is an astute observation, and I need this blog for no other reason than to keep an archive of past struggles and solutions. As you know, documentation is vital to software development and the hope is that by documenting issues and solutions on this blog, I will improve on my ability to write useful documentation. Making the blog public will force me to put some minimum amount of effort and thought into the process, so as to not make a fool of myself. If it turns out that I'm able to, by chance, help out a fellow human being with any given task through this blog, then I will also be satisfied.
+I really do hope you find my writing interesting, feel free to open issues on my github [project](https://github.com/marier-nico/blog) if you have any comments or suggestions.
