@@ -5,6 +5,16 @@
     "desc": "A collection of configurations for various tools"
   },
   {
+    "name": "autorandr.sh",
+    "url": "https://github.com/marier-nico/autorandr.sh",
+    "desc": "A really really simple script to reliably manage monitors with profiles"
+  },
+  {
+    "name": "arch-build",
+    "url": "https://github.com/marier-nico/arch-build",
+    "desc": "Personal AUR repo for custom Arch Linux packages (archived)"
+  },
+  {
     "name": "File Radio",
     "url": "https://github.com/marier-nico/file-radio",
     "desc": "Transmit files through radio waves as sound"
