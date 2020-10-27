@@ -1,11 +1,11 @@
 Welcome to my blog,
 
-My name is Nicolas, and I'm currently studying computer science in university (how original). I like security and will take part in as many CTFs as I can fit into my schedule. I work for a software company while studying, it keeps things interesting. I also enjoy skiing and playing badminton (as well as a bunch of other things, but let's keep things simple for now)!
+I'm currently studying computer science in university. Whenever I can (i.e. whenever I can find a spare minute), I love learning additional things on my own. Part of a great lerning experience for me is to share my newfound knowledge with others, so that's the main idea behind this blog. Obviously, it might serve as a reference for myself in the future as well. Generally, I tend to work on mostly software-oriented projects, but I'm hoping to learn enough to be able to create some hardware projects as well.
 
-I'm generally pretty busy, but I'm occasionally able to take some time away from my other responsibilities to continue teaching myself programming languages, algorithms and other interesting ideas. I also try to take some time to write into this blog, which helps share knowledge and improve literacy!
+Recently, the projects I've undertaken are relatively small-scale, because it's hard to find any time left after studying and working. Those projects are still very valuable to me and I'm grateful that I've even got the time to complete them at all.
 
-I'm passionate about making simple things that work well and are convenient. Often times, my work falls short of my expectations, but I imagine I'm not the only one feeling this way. It might not be a bad thing either, because by having high expectations, there's no risk of stagnation! I'm always looking for a new challenge and, given the time, I'll do my best to solve it and figure out how the puzzle pieces fit together.
+Occasionally, I'll also take part in competitive events which relate to software somehow, be it by creating software, or breaking it (with CTFs). They're always very fun to take part in and, generally, these events are the ones where I learn the most the fastest!
 
-Now, the idea with this blog really isn't to show off all my (limited) knowledge about the world, rather it's to practice writing in order to (hopefully) gain the ability to write great documentation, because that's something I believe in. Also, it's a useful place to funnel my thoughts into when I solve a specific problem which I might have to face again in the future, because then it will serve as a reference for me, but it might help someone else out!
+Besides computer science, I love sports, music, reading and writing!
 
-I really do hope you find my writing interesting, feel free to open issues on this project if you have any comments or suggestions.
+Thanks for taking the time to read this and getting to know me a bit. Hopefully you find something useful in this blog!
