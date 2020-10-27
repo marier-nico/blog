@@ -5,10 +5,12 @@ date: 2019-12-22 16:57:29
 
 Welcome to my blog,
 
-I'm currently studying computer science in university. I also try to teach myself things on my own time (because I find so many things interesting)! I love to share what I make and how I do it with others, so if anyone learns anything by using this blog, I'll certainly be very happy. Generally I tend to learn things that are more software-oriented, because that's what I'm the best with, but I also have an interest in hardware-related projects, such as things that use any sort of RaspberryPi.
+I'm currently studying computer science in university. Whenever I can (i.e. whenever I can find a spare minute), I love learning additional things on my own. Part of a great lerning experience for me is to share my newfound knowledge with others, so that's the main idea behind this blog. Obviously, it might serve as a reference for myself in the future as well. Generally, I tend to work on mostly software-oriented projects, but I'm hoping to learn enough to be able to create some hardware projects as well.
 
-These days I'm mostly doing quick projects when I can find a bit of free time, since between work and university, I'm quite busy! Those projects are still valuable to me though. I'm also taking part in some competitive events which are usually security related, but not always (like the csgames).
+Recently, the projects I've undertaken are relatively small-scale, because it's hard to find any time left after studying and working. Those projects are still very valuable to me and I'm grateful that I've even got the time to complete them at all.
 
-Outside of the software world, I generally enjoy sports, music (ask me about my audio setup!), reading and writing (hence this blog)!
+Occasionally, I'll also take part in competitive events which relate to software somehow, be it by creating software, or breaking it (with CTFs). They're always very fun to take part in and, generally, these events are the ones where I learn the most the fastest!
 
-Thanks for stopping by my humble little corner in this grand big web of things. I hope you have a pleasant stay and discover something new!
+Besides computer science, I love sports, music, reading and writing!
+
+Thanks for taking the time to read this and getting to know me a bit. Hopefully you find something useful in this blog!
