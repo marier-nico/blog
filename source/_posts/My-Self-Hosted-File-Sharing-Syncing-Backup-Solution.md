@@ -18,6 +18,14 @@ For me, Backblaze was even more problematic than Restic, mostly due to the fact 
 
 Also, Backblaze B2 doesn't have a [Terraform](https://www.terraform.io/) provider, which is more of an inconvenience rather than a deal-breaker, but that certainly factored into the decision to migrate out of Backblaze B2.
 
+# Updated 2021-02-22
+
+I now no longer use this method for backups. Having moved away from Android, I could no longer use syncthing. My current solution is to use [Tresorit](https://tresorit.com/individuals), which is an end-to-end encrypted cloud storage / file sharing service. Tresorit also handles data under Swiss privacy laws and uses non-convergent crypto (which means your data can't be matched to other users' data).
+
+They also support every major platform (Windows, Mac, Linux, iOS, Android), which is the main reason I didn't go with [Sync.com](https://www.sync.com/).
+
+For all the features offered and the privacy guarantees, I find the price to be quite reasonable. I'll leave the rest of this article up in case anyone was interested in replicating my previous setup.
+
 ## Motivations
 
 I'm sure most people reading this are well aware that backups are absolutely crucial to recover data in the case of a system failure or ransomware attack, so the motivations behind a robust backup solution should be obvious.
@@ -36,7 +44,7 @@ Filestash allows viewing files from a nice web interface as well as sharing file
 
 BorgBackup is quick, easy to work with, secure and reliable. It's actively developped and has many users, so there's a good community surrounding it.
 
-White Amazon S3 is more expensive than some other services (like Backblaze B2), it offers much more flexibility and makes some very good guarantees regarding the safety and availability of data stored within it. This added reliability makes it more suitable (in my opinion) for backups than Backblaze B2.
+While Amazon S3 is more expensive than some other services (like Backblaze B2), it offers much more flexibility and makes some very good guarantees regarding the safety and availability of data stored within it. This added reliability makes it more suitable (in my opinion) for backups than Backblaze B2.
 
 ## Syncthing
 
